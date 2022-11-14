@@ -15,7 +15,15 @@ bun create react ./react-bun-app
 First, run the development server.
 
 ```
-bun dev
+bun start or bun dev
+```
+
+### Production
+
+Run the custom script for building the app into production
+
+```
+bun build
 ```
 
 Open http://localhost:3000 with your browser to see the result.
