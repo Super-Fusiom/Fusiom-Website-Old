@@ -2,10 +2,21 @@
   "name": "fusiom-website",
   "version": "0.1.61",
   "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^6.2.0",
+    "@fortawesome/free-brands-svg-icons": "^6.2.0",
+    "@fortawesome/free-regular-svg-icons": "^6.2.0",
+    "@fortawesome/free-solid-svg-icons": "^6.2.0",
+    "@fortawesome/react-fontawesome": "^0.2.0",
+    "animate.css": "^4.1.1",
     "bootstrap": "^5.2.2",
+    "gsap-trial": "^3.11.3",
+    "loaders.css": "^0.1.2",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "typescript": "^1.0.0",
+    "react-leaflet": "^4.1.0",
+    "react-loaders": "^3.0.1",
+    "react-router-dom": "^6.4.3",
+    "sass": "^1.56.1",
     "web-vitals": "^3.0.3"
   },
   "eslintConfig": {
@@ -15,8 +26,7 @@
   },
   "devDependencies": {
     "react-refresh": "0.10.0",
-    "react-scripts": "^5.0.1",
-    "typescript": "^4.8.4"
+    "react-scripts": "^5.0.1"
   },
   "scripts": {
     "start": "bun dev",

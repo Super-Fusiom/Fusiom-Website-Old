@@ -23,7 +23,7 @@ bun start or bun dev
 Run the custom script for building the app into production
 
 ```
-bun build
+bun run build
 ```
 
 Open http://localhost:3000 with your browser to see the result.
